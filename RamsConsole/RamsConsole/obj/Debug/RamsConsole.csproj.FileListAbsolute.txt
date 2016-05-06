@@ -1,0 +1,6 @@
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\bin\Debug\RamsConsole.exe.config
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\bin\Debug\RamsConsole.exe
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\bin\Debug\RamsConsole.pdb
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\obj\Debug\RamsConsole.csprojResolveAssemblyReference.cache
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\obj\Debug\RamsConsole.exe
+C:\Users\ram\Documents\GitHub\snippets\RamsConsole\RamsConsole\obj\Debug\RamsConsole.pdb
