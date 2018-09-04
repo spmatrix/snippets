@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Hello World</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#btnAdd").click(function () {
+                $("#lblResult").text(parseInt($("#txtNumber1").val()) + parseInt($("#txtNumber2").val()));           
+            });
+        });
+       
+           
+    </script>
+</head>
+<body>
+    
+    Number 1:
+    <input type="text" name="txtNumber1"  id="txtNumber1"/>
+    <br /><br />
+   
+    Number 2:
+    <input type="text" name="txtNumber2" id="txtNumber2"/>
+    <br /><br />
+   
+    <input type="button" name="btnAdd" id="btnAdd" value=" Add " />
+    <br /><br />
+    
+    Result:<span id="lblResult"></span>    
+
+</body>
+</html>
